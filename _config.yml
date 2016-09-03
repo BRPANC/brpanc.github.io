@@ -1,0 +1,85 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Brinda"
+description: "Brinda's Personal Webpage"
+keywords: "Brinda"
+baseurl: "/"
+url: "http://127.0.0.1:4000"
+
+# blog img path
+img_path: 'http://127.0.0.1:4000/static/img/blog'
+
+# author
+author:
+  name: 'Brinda'
+  first_name: 'Brinda'
+  last_name: 'Panchal'
+  email: 'brinda.panchal@duke.edu'
+  github_username: 'brpanc'
+  linkedin_username: 'brindapanchal'
+  twitter_username: 'PanchalBrinda'
+  head_img: 'static/img/landing/Brinda.jpg'
+
+# social link
+brinda:
+  first_name: 'Brinda'
+  last_name: 'Panchal'
+  description: 'Student.'
+  link: 'https://twitter.com/PanchalBrinda'
+
+# landing page
+landing:
+  home: 'Home'
+  about: 'About'
+  career: 'Career'
+  skills: 'Skills'
+  projects: 'Project'
+  link: 'Link'
+
+# my projects
+project:
+  saplatform:
+    name: 'Saplatform'
+    url: '/Brinda614/saplatform'
+    img: 'static/img/landing/saplatform.png'
+  jalpc:
+    name: 'Jalpc'
+    url: '/Brinda614/jalpc_jekyll_theme'
+    img: 'static/img/landing/jekyll.png'
+  angularjs:
+    name: 'Jalpc-A'
+    url: '/Brinda614/Jalpc-A'
+    img: 'static/img/landing/angularjs.png'
+  Rsser:
+    name: 'Rsser'
+    url: '/Brinda614/Rsser'
+    img: 'static/img/landing/rsser.png'
+
+# blog index
+index:
+  home: 'Home'
+  python: 'Python'
+  linux: 'Linux'
+  html: 'HTML'
+  database: 'Database'
+  mac: 'Mac'
+
+
+# share
+bshare:
+  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+
+# google analytics
+ga:
+  id: UA-73784599-1
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
