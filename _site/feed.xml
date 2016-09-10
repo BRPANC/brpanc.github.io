@@ -5,8 +5,8 @@
     <description>Brinda's Personal Webpage</description>
     <link>http://127.0.0.1:4000//</link>
     <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 16:37:47 -0700</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 16:37:47 -0700</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2016 09:54:45 -0400</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 09:54:45 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -29,7 +29,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 08 Aug 2016 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//html/2016/08/08/ionic-icon-splash.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//html/2016/08/08/ionic-icon-splash.html</guid>
         
@@ -70,7 +70,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 26 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 26 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//html/2016/06/26/JavaScript-if-statement.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//html/2016/06/26/JavaScript-if-statement.html</guid>
         
@@ -149,7 +149,7 @@
 
 &lt;p&gt;toLocaleString 、toString 、valueOf：可以看作是join的特殊用法，不常用&lt;/p&gt;
 </description>
-        <pubDate>Thu, 23 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 23 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//html/2016/06/23/javascript-json-array.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//html/2016/06/23/javascript-json-array.html</guid>
         
@@ -238,7 +238,7 @@ size  pack  SHA                                       location
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 19 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 19 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2016/06/19/clean-git-repo.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2016/06/19/clean-git-repo.html</guid>
         
@@ -769,7 +769,7 @@ size  pack  SHA                                       location
   &lt;li&gt;&lt;a href=&quot;http://spascaffold.azurewebsites.net/AngularJSScaffold&quot;&gt;从JSON或者 restful API生成 JavaScript 和 HTML，使用 AngularJS 和 JQuery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 15 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 15 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//html/2016/06/15/angularjs-guide.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//html/2016/06/15/angularjs-guide.html</guid>
         
@@ -921,7 +921,7 @@ iface wlan1 inet manual
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 09 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 09 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2016/06/09/install-raspbian-on-mac.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2016/06/09/install-raspbian-on-mac.html</guid>
         
@@ -985,7 +985,7 @@ iface wlan1 inet manual
 
 &lt;p&gt;最后一步就是对分页的样式重新定义，因为jPages自带的样式很不好看，我使用的是bootstrap，这里需要在&lt;code class=&quot;highlighter-rouge&quot;&gt;jPages.js&lt;/code&gt;中进行修改，具体可以在我&lt;a href=&quot;https://github.com/Jack614/jalpc_jekyll_theme/blob/gh-pages/static/js/jPages.js&quot;&gt;项目&lt;/a&gt;中的代码查看，有注释的部分是jPages原来的代码。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 04 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//html/2016/06/04/jekyll-pagination-with-jpages.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//html/2016/06/04/jekyll-pagination-with-jpages.html</guid>
         
@@ -1028,7 +1028,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 &lt;p&gt;原来这就是Python之禅，哈哈&lt;/p&gt;
 </description>
-        <pubDate>Thu, 02 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 02 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//python/life/2016/06/02/zen-of-python.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/life/2016/06/02/zen-of-python.html</guid>
         
@@ -1173,7 +1173,7 @@ Parameters:         /usr/local/bin/iterm2-zmodem rz
 &lt;/div&gt;
 &lt;p&gt;Github链接：&lt;a href=&quot;https://github.com/Jack614/iterm2-zmodem&quot;&gt;https://github.com/Jack614/iterm2-zmodem&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 29 May 2016 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 29 May 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//mac/2016/05/29/Z-Modem-integration-for-iTerm2.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//mac/2016/05/29/Z-Modem-integration-for-iTerm2.html</guid>
         
@@ -1261,7 +1261,7 @@ Parameters:         /usr/local/bin/iterm2-zmodem rz
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 04 May 2016 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 04 May 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//python/database/2016/05/04/python-mysql-redis.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/database/2016/05/04/python-mysql-redis.html</guid>
         
@@ -1494,7 +1494,7 @@ if not len(seq)&lt;/code&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Wed, 06 Apr 2016 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//python/2016/04/06/python-standard.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2016/04/06/python-standard.html</guid>
         
@@ -1656,7 +1656,7 @@ no exceptions!
 
 &lt;p&gt;除了&lt;code class=&quot;highlighter-rouge&quot;&gt;__enter__()&lt;/code&gt;和&lt;code class=&quot;highlighter-rouge&quot;&gt;__exit__()&lt;/code&gt;方法，还有&lt;code class=&quot;highlighter-rouge&quot;&gt;contextlib&lt;/code&gt;模块可以辅助上下文管理，该模块是通过Generator实现的，contextlib中的contextmanager作为装饰器来提供一种针对函数级别的上下文管理机制，可以直接说作用函数\对象而不用去关心&lt;code class=&quot;highlighter-rouge&quot;&gt;__enter__()&lt;/code&gt;和&lt;code class=&quot;highlighter-rouge&quot;&gt;__exit__()&lt;/code&gt;方法的具体实现。具体可以百度。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 20 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/2016/02/20/python-tips-2.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2016/02/20/python-tips-2.html</guid>
         
@@ -1751,7 +1751,7 @@ True
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 19 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/2016/02/19/python-tips-1.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2016/02/19/python-tips-1.html</guid>
         
@@ -2084,7 +2084,7 @@ Student
 
 &lt;p&gt;转自&lt;a href=&quot;http://www.liaoxuefeng.com&quot;&gt;廖雪峰&lt;/a&gt;的网站&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/2016/02/17/python-class.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2016/02/17/python-class.html</guid>
         
@@ -2318,7 +2318,7 @@ Student
 
 &lt;p&gt;Django原生提供了一种简单的全局权限（global permission）控制机制，但很多应用场景下，对象权限（object permission）更加有用；django-guardian是目前比较活跃的一个django extension，提供了一种有效的object permission控制机制，与django原生机制一脉相承，推荐使用。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 06 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 06 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/2016/02/06/django-permission.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2016/02/06/django-permission.html</guid>
         
@@ -2440,7 +2440,7 @@ supervisorctl stop celery:celery-0
 &lt;img src=&quot;http://127.0.0.1:4000/static/img/blog/supervisord_celery/celery-web.jpg&quot; alt=&quot;celery&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 04 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 04 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/linux/2016/02/04/supervisord-celery.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/linux/2016/02/04/supervisord-celery.html</guid>
         
@@ -2491,7 +2491,7 @@ Host github.com
 &lt;p&gt;这样在登陆的时候，ssh会根据登陆不同的域来读取相应的私钥文件&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 03 Jan 2016 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//linux/2016/01/03/git-ssh-key.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2016/01/03/git-ssh-key.html</guid>
         
@@ -2731,7 +2731,7 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 21 Dec 2015 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/2015/12/21/django-settings.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2015/12/21/django-settings.html</guid>
         
@@ -2759,7 +2759,7 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//database/2015/11/01/mysql-table-size.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//database/2015/11/01/mysql-table-size.html</guid>
         
@@ -2853,7 +2853,7 @@ Spark
 &lt;p&gt;数据录入我们是通过MySQL的select into outfile到txt文件，然后在hive中load到hadoop中，中间遇到一些坑，是MySQL一些字段的换行符，这个问题查看一下我的上一篇文章，在hive创建数据库表中，text字段可以用string替代，*int(*)换成*int即可。&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 16 Oct 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 16 Oct 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//database/2015/10/16/hadoop-ambari.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//database/2015/10/16/hadoop-ambari.html</guid>
         
@@ -2917,7 +2917,7 @@ char(13):  回车符&lt;/p&gt;
 &lt;p&gt;用了两个trim，这样的好处是不会替换内容中间的换行和回车，只会处理头尾的空格换行回车，相当于php中trim函数的作用了。&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Oct 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//database/2015/10/15/mysql-n-r.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//database/2015/10/15/mysql-n-r.html</guid>
         
@@ -2964,7 +2964,7 @@ char(13):  回车符&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/static/img/blog/Malaysia_Sabah/4.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 04 Oct 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 04 Oct 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//life/2015/10/04/sabah-travel.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//life/2015/10/04/sabah-travel.html</guid>
         
@@ -3056,7 +3056,7 @@ rsync -avR --delete --port=8723 dir@123.58.188.133::antiplug/ ./
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Wed, 30 Sep 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 30 Sep 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/09/30/rsync.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/09/30/rsync.html</guid>
         
@@ -3449,7 +3449,7 @@ compressableMimeType=&quot;text/html,text/xml,text/javascript,text/css,text/plai
 
 &lt;p&gt;大家看看，这就提高了多少倍？这还只是在没有改动代码的情况下得到的改善，现在明白了好好的调优一个apache和tomcat其实是多么的重要了？如果加上后面的代码、SQL的调优、数据库的调优。。。。。。所以我在上一个工程中有单笔交易性能（无论是吞吐量、响应时间）提高了80倍这样的极端例子的存在。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Sep 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 12 Sep 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/09/12/tomcat-optimize.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/09/12/tomcat-optimize.html</guid>
         
@@ -3836,7 +3836,7 @@ spymemcached-2.10.2.jar
 &lt;p&gt;将其简单扩展，就可以不再依赖 spring ，并且利用 javolution 实现序列化，缓存的对象不再有限制。&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 11 Sep 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 11 Sep 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/09/11/tomcat-nginx-memcached-session.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/09/11/tomcat-nginx-memcached-session.html</guid>
         
@@ -4043,7 +4043,7 @@ spymemcached-2.10.2.jar
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//database/2015/09/01/linux-mysql.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//database/2015/09/01/linux-mysql.html</guid>
         
@@ -4149,7 +4149,7 @@ spymemcached-2.10.2.jar
 
 &lt;p&gt;/lib64/ld-linux-x86-64.so.2 (0x00002b83fc9b0000)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Aug 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 18 Aug 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/08/18/linux-memcached.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/08/18/linux-memcached.html</guid>
         
@@ -4270,7 +4270,7 @@ spymemcached-2.10.2.jar
 
 &lt;p&gt;cpu usage=[(user_2 +sys_2+nice_2) – (user_1 + sys_1+nice_1)]/(total_2 – total_1)*100&lt;/p&gt;
 </description>
-        <pubDate>Wed, 22 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/07/22/cpu.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/07/22/cpu.html</guid>
         
@@ -4520,7 +4520,7 @@ modprobe -l|grep ipvs     ##检查ipvs的模块
 &lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/static/img/blog/lvs/bijiao.jpg&quot; alt=&quot;bijiao&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 09 May 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/05/09/lvs.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/05/09/lvs.html</guid>
         
@@ -4665,7 +4665,7 @@ Slave_SQL_Running: Yes
 &lt;p&gt;大功告成。&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 03 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//database/2015/04/03/mysql-master-slave.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//database/2015/04/03/mysql-master-slave.html</guid>
         
@@ -4714,7 +4714,7 @@ RUN_AS_USER=root
 
 &lt;p&gt;即可运行tomcat。&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/03/12/linux-tomcat.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/03/12/linux-tomcat.html</guid>
         
@@ -4770,7 +4770,7 @@ RUN_AS_USER=root
 &lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/static/img/blog/nginx/safe.jpg&quot; alt=&quot;safe&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 03 Mar 2015 00:00:00 -0800</pubDate>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/03/03/nginx.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/03/03/nginx.html</guid>
         
@@ -4884,7 +4884,7 @@ RUN_AS_USER=root
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;${#file}&lt;/code&gt; 可得到 27 ，因为 /dir1/dir2/dir3/my.file.txt 刚好是 27 个字节.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 02 Mar 2015 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/03/02/shell.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/03/02/shell.html</guid>
         
@@ -4941,7 +4941,7 @@ RUN_AS_USER=root
 
 &lt;p&gt;最后一张图片的字母划掉了，所以答案是：&lt;strong&gt;disproportional&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//python/2015/02/26/python-challenge12.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//python/2015/02/26/python-challenge12.html</guid>
         
@@ -5002,7 +5002,7 @@ UserKnownHostsFile /dev/null
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 02 Feb 2015 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 02 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/02/02/ssh-key.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/02/02/ssh-key.html</guid>
         
@@ -5049,7 +5049,7 @@ UserKnownHostsFile /dev/null
   &lt;li&gt;真正的该程序要求的数据空间，是真正在运行中要使用的。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Mon, 02 Feb 2015 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 02 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/02/02/Top_command-VIRT-RES-SHR-DATA.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/02/02/Top_command-VIRT-RES-SHR-DATA.html</guid>
         
@@ -5078,7 +5078,7 @@ UserKnownHostsFile /dev/null
 
 &lt;p&gt;EPEL版本不同，根据不同系统请自行安装。&lt;/p&gt;
 </description>
-        <pubDate>Tue, 13 Jan 2015 00:00:00 -0800</pubDate>
+        <pubDate>Tue, 13 Jan 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//linux/2015/01/13/linux-epel.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//linux/2015/01/13/linux-epel.html</guid>
         
@@ -5103,7 +5103,7 @@ UserKnownHostsFile /dev/null
 
 &lt;p&gt;从第一份运维工作开始，就开始写笔记，有用过印象笔记，有道云笔记，gist，后来也开始写博客，那时候是在CSDN上面注册了一个账号，写了有几个月见见的也荒废了；再后来，想自己搞个云主机，在&lt;a href=&quot;http://aliyun.com&quot;&gt;阿里云&lt;/a&gt;上租了一台主机，一个月￥60，先是用wordpress，感觉可定制功能不强，因为是PHP写的，个人主要学习Python，所以感觉自己用Django写了一个博客，在15年双十一，云主机降价，花了一半的价钱（￥200）在美团云上买了一台1C、1G、1MB带宽的主机，至此也了解了阿里云和美团云的一些不同之处，美团云主打的是纯净的系统，而阿里云应用市场比较丰富。现在准备把自己的博客迁移到&lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt;上，在学习了markdown入门和jekyll基础后，目前博客已经初步成立，同时完善了我的一些文章，希望今后能够勤写文章。&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Jan 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
         <link>http://127.0.0.1:4000//life/2015/01/08/first-blog.html</link>
         <guid isPermaLink="true">http://127.0.0.1:4000//life/2015/01/08/first-blog.html</guid>
         
